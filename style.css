@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-/* ===========================
-   CSS Variables & Reset
-   =========================== */
+
 *, *::before, *::after {
   box-sizing: border-box;
   margin: 0;
@@ -693,7 +690,7 @@ body {
   color: #111;
   transform: translateY(-2px);
 }
-=======
+
 /* RESET */
 * {
     margin: 0;
@@ -887,4 +884,4 @@ button {
 button:hover {
     opacity: 0.8;
 }
->>>>>>> 31f2e94287823e5d49d5e0ea03573f41f9353a35
+
